@@ -21,7 +21,7 @@ This project uses synthetic health insurance claims data to analyze 2025 histori
 
 ## Workbook
 
-[Download the Excel Workbook](Health_Insurance_Claims_Forecasting_and_Illustrative_Pricing_Model.xlsx)
+[Download the Excel Workbook](<Health Insurance Claims Forecasting & Illustrative Pricing Model.xlsx>)
 
 The workbook includes:
 
