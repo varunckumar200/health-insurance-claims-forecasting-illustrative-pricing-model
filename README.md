@@ -19,9 +19,9 @@ This project uses synthetic health insurance claims data to analyze 2025 histori
 
 ![Validation and Limitations](images/README_Validation_Limitations.png)
 
-## Workbook
+## Interactive Workbook
 
-[Download the Excel Workbook](<Health Insurance Claims Forecasting & Illustrative Pricing Model.xlsx>)
+[View the Google Sheets Workbook](https://docs.google.com/spreadsheets/d/1BSCUklZd8xancY-QOmPxpoU6SImsUutykFuPoAQUgYA/edit?usp=sharing)
 
 The workbook includes:
 
@@ -31,6 +31,7 @@ The workbook includes:
 - Sensitivity analysis of utilization and unit cost trends
 - Claims cost driver analysis
 - Automated validation and reconciliation checks
+
 
 ## Tools
 
