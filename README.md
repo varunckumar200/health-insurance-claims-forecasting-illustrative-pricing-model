@@ -1,8 +1,23 @@
+
 # Health Insurance Claims Forecasting & Illustrative Pricing Model
 
 ## Project Overview
 
 This project uses synthetic health insurance claims data to analyze 2025 historical experience, forecast 2026 claims costs, and develop illustrative premium estimates across Medicaid, Medicare Advantage, and Commercial lines of business.
+
+## Project Documentation
+
+### Project Overview, Data Description & Methodology
+
+![Project Overview](images/README_Overview.png)
+
+### Key Assumptions & Key Outputs
+
+![Key Assumptions and Outputs](images/README_Assumptions_Outputs.png)
+
+### Validation & Quality Checks and Limitations
+
+![Validation and Limitations](images/README_Validation_Limitations.png)
 
 ## Workbook
 
